@@ -1,5 +1,7 @@
 
 
-coming from out teammate
+coming from our teammate
 
 they commit and push on their computer.
+
+we learned how to pull from remote repository.
